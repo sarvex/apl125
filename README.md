@@ -1,6 +1,6 @@
 APL
 ======
-Trying to complete 125 projects from in Racket
+Trying to complete 125 projects from in APL
 
 Numbers
 ---------
